@@ -1,8 +1,6 @@
 # https://travis-ci.org/#!/translate/translate
 language: python
 python:
-  - 2.5
-  - 2.6
   - 2.7
   - pypy # nice to try once lxml is supported or we can switch lxml off
 env:
